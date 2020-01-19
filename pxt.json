@@ -1,0 +1,21 @@
+{
+    "name": "Hunt the Wumpus",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-arcade-info-screens": "github:robo-technical-group/pxt-arcade-info-screens#v1.0.11",
+        "pxt-arcade-display-strings": "github:robo-technical-group/pxt-arcade-display-strings#v1.0.11"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
